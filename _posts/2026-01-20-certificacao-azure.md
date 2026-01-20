@@ -5,4 +5,4 @@ categories: [Cloud]
 tags: [Azure]
 ---
 
-Olá mundo! Este é o meu post sobre Cloud.
+Olá mundo! Este é o meu post sobre Cloud A.
