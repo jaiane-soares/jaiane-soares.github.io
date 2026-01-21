@@ -7,4 +7,4 @@ tags: [Azure,Cloud,AWS,GCP]
 
 ## 
 
-![imagem](/assets/imagens/20-01-2026-Buzz.jpg)
+![Buzz Lightyear](/assets/imagens/20-01-2026-Buzz.jpg)
